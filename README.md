@@ -6,7 +6,7 @@
 
 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Flutter+Developer+with+2%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=MERN+Developer+with+2%2B+Years+Experience;Passionate+about+Making+Full+Stack+Web+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahMehsud&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
@@ -23,15 +23,20 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### Current Status Quo:
 
-- 🔭 I'm actively engaged as a Software Engineer, passionately contributing to the realm of Flutter for crafting robust hybrid applications.
+- 🔭 I’m actively thriving as a Software Engineer with a deep focus on the MERN stack (MongoDB, Express.js, React, Node.js), dedicated to building scalable and responsive   
+  full-stack web applications.
 
-- 🌱 My current journey involves a deep dive into the art of Flutter Application Development, where every line of code is a step towards mastery.
+- 🌱 My journey currently revolves around mastering modern web technologies, refining backend logic, and enhancing user experiences through efficient frontend development 
+  with React.
 
-- 💞️ An enthusiastic collaborator at heart, I seek synergistic opportunities that unite talents from all corners of the coding cosmos. Open to forging impactful partnerships with anyone who shares a passion for innovation.
+- 💞️ A natural team player, I’m always open to collaborative opportunities that bring developers, designers, and visionaries together to create transformative digital 
+  products.
 
-- 🔍 My sights are set on the horizon of thriving career prospects within the dynamic landscape of the IT industry, eagerly seeking avenues where I can apply my skills and knowledge to redefine possibilities.
+- 🔍 With eyes on the ever-evolving IT ecosystem, I’m seeking challenging and fulfilling roles that allow me to contribute meaningfully while continuing to grow as a full- 
+  stack developer.
 
-- 💬 I thrive on conversations that revolve around the intricate dance of Flutter, App Development, and all things related to the captivating realm of Information Technology. Feel free to engage in insightful discussions, for knowledge knows no boundaries.
+- 💬 I’m passionate about discussing everything from RESTful APIs and database optimization to component-driven frontend architecture and deployment strategies. If you’re 
+  into code, let’s talk shop!
 
 ### :hammer_and_wrench: Languages and Tools :
 
